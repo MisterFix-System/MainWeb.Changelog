@@ -1,5 +1,15 @@
 # MainWeb.Changelog
 
+
+## v.1.0.0-rc.10
+
+FIX FEEDBACK:
+* https://github.com/MisterFix-System/MainWeb.Changelog/issues/13
+* https://github.com/MisterFix-System/MainWeb.Changelog/issues/10
+* https://github.com/MisterFix-System/MainWeb.Changelog/issues/4
+* https://github.com/MisterFix-System/MainWeb.Changelog/issues/3
+
+
 ## v.1.0.0-rc.1
 
 Initial Features:
