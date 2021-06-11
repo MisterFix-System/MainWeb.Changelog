@@ -9,6 +9,9 @@ FIX FEEDBACK:
 * https://github.com/MisterFix-System/MainWeb.Changelog/issues/4
 * https://github.com/MisterFix-System/MainWeb.Changelog/issues/3
 
+UPDATE FEATURE:
+* Service order booking and payment gateway implementation
+* Check service order booking page implementation
 
 ## v.1.0.0-rc.1
 
