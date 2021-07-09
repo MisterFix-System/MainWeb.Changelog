@@ -1,5 +1,10 @@
 # MainWeb.Changelog
 
+## v.1.0.2
+* Recreate service booking menu with calendar
+* Fetch appointment schedule from admin to main web
+
+-------------------------------------------------------------------------------------------
 
 ## v.1.0.0-rc.10
 
