@@ -1,5 +1,11 @@
 # MainWeb.Changelog
 
+## v.1.0.4
+* New Feature - Personal Customer Login & Register
+* New Feature - Personal Customer Profile (basic information, buildings, room, AC info)
+* New Feature - Personal Customer service history
+* Update Feature - Order using existing customer account
+
 ## v.1.0.3
 * Add new feature - Testimonials
 * Add new feature - Tips & Tricks
